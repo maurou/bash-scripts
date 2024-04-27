@@ -1,5 +1,7 @@
+*test.sh
 *bak.sh
 *old.sh
-.DS_Store
-log_*.txt
 test.sh
+log_*.txt
+*.log
+.DS_Store
